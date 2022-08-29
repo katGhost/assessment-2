@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "mtnBasicApp",
+    "name": "Suppliments House",
     "slug": "mtnBasicApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash3.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#00BFA5"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
