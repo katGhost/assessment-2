@@ -6,8 +6,8 @@ export default function BottomInfo({ text }) {
 
   return (
     <View style={styles.info}>
-      <Text style={styles.title}>Modern Something</Text>
-      <Text style={styles.description}>Yeah its all about this shit here</Text>
+      <Text style={styles.title}>Protein Life</Text>
+      <Text style={styles.description}>whey all you want and get that summer body</Text>
     </View>
   );
 };
